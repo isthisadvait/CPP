@@ -1,0 +1,7 @@
+{
+  "cSpell.words": ["inorder", "segmenttree", "sgmntree"],
+  "files.associations": {
+    "iostream": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "disabled"
+}
