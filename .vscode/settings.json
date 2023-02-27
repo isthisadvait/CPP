@@ -1,5 +1,18 @@
 {
-  "cSpell.words": ["heapify", "inorder", "Raman", "segmenttree", "sgmntree"],
+  "cSpell.words": [
+    "cmax",
+    "fenwick",
+    "heapify",
+    "inorder",
+    "levelorder",
+    "Raman",
+    "rmax",
+    "segmenttree",
+    "sgmntree",
+    "topo",
+    "trav",
+    "undir"
+  ],
   "files.associations": {
     "iostream": "cpp"
   },
